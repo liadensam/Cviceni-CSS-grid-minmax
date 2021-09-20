@@ -1,8 +1,5 @@
-/* google font */
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700&subset=latin-ext');
 
-
-/* zde je magie a jednorožci, někdy i draci */
 :root {
 	--text: #333a44;
 	--popisek: #95afc0;
@@ -18,7 +15,7 @@
 }
 
 
-/* nejsme vcerejsi, pouzivame moderni box model */
+/* nejsme včerejší, používáme moderní box model */
 *, :after, :before { box-sizing: border-box; }
 
 
@@ -108,7 +105,7 @@ h1 {
 	margin: 15px 0 0 0;
 	font-size: 14px;
 	line-height: 1;
-	color: var(--telefon) ;
+	color: var(--telefon);
 }
 
 .hleda {
