@@ -128,3 +128,9 @@ h1 {
 	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 	gap: 20px;
 }
+
+/* Bonus */
+.kontakty {
+	max-width: calc(220px * 6 + 20px * 5);
+	margin: 0 auto;
+}
